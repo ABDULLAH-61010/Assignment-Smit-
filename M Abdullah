@@ -1,0 +1,34 @@
+~{MUHAMMAD ABDULLAH NASIR ROLL.NO 875020}~
+~(CHAPTER-1)~
+Q.1 Write a script to greet your website visitors using JS alert box?
+alert("Welcome")
+
+Q.2 Write a script to display following message on your webpage:
+alert("Error!Please enter a valid password.")
+
+Q.3 Write a script to display following message on your webpage:
+alert("Welcome to JS land...n\Happy Coding!")
+
+Q.4 Write a script to display following message in sequence:
+alert("Welcome to JS land")
+alert("Happy Coding!")
+
+Q.5 Generate the following message through browsers developer console:
+alert("Hello...I can run JS through my web browser's console");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
