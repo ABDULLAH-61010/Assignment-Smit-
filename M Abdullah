@@ -1,20 +1,637 @@
 ~{MUHAMMAD ABDULLAH NASIR ROLL.NO 875020}~
-~(CHAPTER-1)~
-Q.1 Write a script to greet your website visitors using JS alert box?
-alert("Welcome")
+//.....Chapter#01.......//
 
-Q.2 Write a script to display following message on your webpage:
-alert("Error!Please enter a valid password.")
+//Question No.1
+// alert("Welcome To Our website")
 
-Q.3 Write a script to display following message on your webpage:
-alert("Welcome to JS land...n\Happy Coding!")
+//Question No.2
+// alert("Error! Please enter a valid password")
 
-Q.4 Write a script to display following message in sequence:
-alert("Welcome to JS land")
-alert("Happy Coding!")
+//Question No.3
+// alert("Welcome to JS land..\nHappy Coding!")
 
-Q.5 Generate the following message through browsers developer console:
-alert("Hello...I can run JS through my web browser's console");
+//Question No.4
+// alert("Welcome to JS Land..")
+// alert("Happy Coding!\nPrevent this page from creating additional dialogs.")
+
+//Question No.5
+//Done on web browser console my generating alert prompt in console then press enter
+// to show alert
+
+//------------------------------END--------------------------------------------//
+
+//>>>>>>>Chapter No.2<<<<<<//
+
+//Question No.1
+// var username;
+
+//Question No.2
+// var myName = "Hammad Khan";
+
+//Question No.3
+// var message;
+// message = "Hello World";
+// alert(message);
+
+//Question No.4
+// var studentName = "Hammad Khan";
+// var age = 20;
+// var course = "Full Stack Foundation Javascript and python";
+
+
+// alert("Student Name: " + studentName);
+// alert("Age: " + age);
+// alert("Course: " + course);
+
+//Question No.5
+// var pizza="PIZZA\nPIZZ\nPIZ\nPI\nP"
+// alert(pizza)
+
+//Question No.6
+// var email="My email Address is hammadkhani4546@gmail.com"
+// alert(email)
+
+//Question No.7
+// var book="A smarter way to learn javascript"
+// alert("I am trying to learn from the Book "+book)
+
+//Question No.8
+// var message="Yah! I can write HTML content through Javascript"
+// document.write(message)
+
+//OR we also do like this
+// document.write("Yah! I can write HTML content through Javascript")
+
+//Question No.9
+// var design = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
+
+// alert(design);
+// document.write(design);
+
+//---------------------------------END-----------------------------------------//
+
+//><><><><><><Chapter No.3><><><><><><><//
+
+//Question No.1
+// var age="16"
+// alert("I am "+age +" years old")
+
+//Question No.2
+// var visitCount = 14;
+
+// alert("You have visited this site " + visitCount + " times");
+// document.write("You have visited this site " + visitCount + " times");
+
+//Question No.3
+// var birthyear= 2010
+// document.write("My birth year is "+birthyear+"</br>"+"Data type to my declared variable is number")
+
+//Question No.4
+// var visitorName = "Hammad khan";
+// var productTitle = "T-shirt";
+// var quantity = 5;
+
+// document.write(visitorName + " ordered " + quantity + " " + productTitle + "(s) on Ideas Clothing store");
+
+//-----------------------------------END---------------------------------------//
+
+//_________________CHAPTER NO 4_________________//
+
+//Question No.1
+// var firstName = "John", age = 20, city = "Karachi";
+
+//Question No.2
+
+//  Legel VAriables
+// var myName;
+// var _name;
+// var $price;
+// var user1;
+// var first_Name;
+
+// ILegal Variables
+
+// var 1name;      // starts with number
+// var my-name;    // contains hyphen
+// var my name;    // contains space
+// var var;        // reserved keyword
+// var @name;      // special character
+
+//Question No.3
+// document.write("<h1>Rules for naming JS variables</h1>");
+
+// document.write("Variable names can only contain numbers, $, _ and letters. For example: $my_1stVariable <br>");
+
+// document.write("Variables must begin with a letter, $ or _. For example: $name, _name or name <br>");
+
+// document.write("Variable names are case sensitive <br>");
+
+// document.write("Variable names should not be JS keywords");
+
+
+//______________________END_________________________________//
+
+
+//............CHAPTER NO.5...........//
+
+//Question No.1
+// var num1=5
+// var num2=15
+// var result=num1+num2
+// document.write("The sum of 5 and 15 is "+result )
+
+//Question No.2
+
+//(SUBSTRACTION)
+// var num1=5
+// var num2=15
+// var result=num1-num2
+// document.write("The substraction of 5 and 15 is "+result )
+
+//(Multiplication)
+// var num1=5
+// var num2=15
+// var result=num1*num2
+// document.write("The multiplication of 5 and 15 is "+result )
+
+// (Division)
+// var num1=15
+// var num2=5
+// var result=num1/num2
+// document.write("The division of 15 and 5 is "+result )
+
+//Question No.3
+// var num;
+
+// document.write("Value after variable declaration is: " + num + "<br>");
+
+// num = 5;
+// document.write("Initial value: " + num + "<br>");
+
+// num++;
+// document.write("Value after increment is: " + num + "<br>");
+
+// num = num + 7;
+// document.write("Value after addition is: " + num + "<br>");
+
+// num--;
+// document.write("Value after decrement is: " + num + "<br>");
+
+// num = num % 3;
+// document.write("The remainder is: " + num);
+
+//Question No.4
+// var price=600
+// var quantity=5
+// var totalcost=price*quantity
+// document.write("Total cost to buy 5 tickets to a movie is Rs:"+totalcost)
+
+//Question No.5
+// var num = 4;
+
+// document.write("<h2>Table of " + num + "</h2>");
+
+// document.write(num + " x 1 = " + (num * 1) + "<br>");
+// document.write(num + " x 2 = " + (num * 2) + "<br>");
+// document.write(num + " x 3 = " + (num * 3) + "<br>");
+// document.write(num + " x 4 = " + (num * 4) + "<br>");
+// document.write(num + " x 5 = " + (num * 5) + "<br>");
+// document.write(num + " x 6 = " + (num * 6) + "<br>");
+// document.write(num + " x 7 = " + (num * 7) + "<br>");
+// document.write(num + " x 8 = " + (num * 8) + "<br>");
+// document.write(num + " x 9 = " + (num * 9) + "<br>");
+// document.write(num + " x 10 = " + (num * 10));
+
+//Question No.6
+// var celsius = 40;
+// var fahrenheit = (celsius * 9/5) + 32;
+
+// document.write(celsius + "°C is " + fahrenheit + "°F<br>");
+
+// var fahrenheitTemp = 60;
+// var celsiusTemp = (fahrenheitTemp - 32) * 5/9;
+
+// document.write(fahrenheitTemp + "°F is " + celsiusTemp + "°C");
+
+//Question No.7
+// var priceitem1=650
+// var quantity1=7
+
+// var priceitem2=700
+// var quantity2=4
+
+// var shippingcharges=250
+
+// var totalcost=(priceitem1*quantity1)+(priceitem2*quantity2)+(shippingcharges)
+
+// document.write("<h1>Shopping cart</h1>")
+
+// document.write("Price of item 1 is "+priceitem1+"<br>")
+// document.write("Price of item 1 is "+quantity1+"<br>")
+// document.write("Price of item 1 is "+priceitem2+"<br>")
+// document.write("Price of item 1 is "+quantity2+"<br>")
+
+// document.write("Price of item 1 is "+shippingcharges+"<br><br>")
+// document.write("Your Total Bil is Rs:"+totalcost)
+
+//`````````Chapter No.6__9 ```````````//
+//Question No.1
+// var a = 25;
+
+// document.write("Result:<br>");
+// document.write("The value of a is: " + a + "<br>");
+// document.write("........................................<br><br>");
+
+// document.write("The value of ++a is: " + (++a) + "<br>");
+// document.write("Now the value of a is: " + a + "<br><br>");
+
+// document.write("The value of a++ is: " + (a++) + "<br>");
+// document.write("Now the value of a is: " + a + "<br><br>");
+
+// document.write("The value of --a is: " + (--a) + "<br>");
+// document.write("Now the value of a is: " + a + "<br><br>");
+
+// document.write("The value of a-- is: " + (a--) + "<br>");
+// document.write("Now the value of a is: " + a + "<br>");
+
+//Question No.2
+// --a;                     1
+
+// --a - --b;               1 - 0 = 1
+
+// --a - --b + ++b;         1 - 0 + 1 = 2
+
+// --a - --b + ++b + b--;   1 - 0 + 1 + 1 = 3
+
+// a = 1
+// b = 0
+// result = 3
+
+//Queestion No.3
+
+// var name=prompt("Enter Your Name")
+// alert("Welcome! "+name+" to our website.")
+// document.write("Welcome! "+name+" to our website.")
+
+//Question No.4
+// var num = +prompt("Enter a number");
+
+// if (num) {
+//     document.write("<h2>The Multiplication Table of " + num + " is:</h2>");
+
+//     for (var i = 1; i <= 10; i++) {
+//         document.write(num + " x " + i + " = " + (num * i) + "<br>");
+//     }
+
+// }
+//  else {
+//     document.write("<h2>The Multiplication Table of 5 is:</h2>");
+
+//     for (var i = 1; i <= 10; i++) {
+//         document.write("5 x " + i + " = " + (5 * i) + "<br>");
+//     }
+// }
+
+//Question No.5
+// var subject1 = prompt("Enter first subject name");
+// var subject2 = prompt("Enter second subject name");
+// var subject3 = prompt("Enter third subject name");
+
+// var totalMarks = 100;
+
+// var marks1 = +prompt("Enter obtained marks of " + subject1);
+// var marks2 = +prompt("Enter obtained marks of " + subject2);
+// var marks3 = +prompt("Enter obtained marks of " + subject3);
+
+// var total = totalMarks * 3;
+// var obtained = marks1 + marks2 + marks3;
+// var percentage = (obtained / total) * 100;
+
+// document.write("<table border='1'>");
+// document.write("<tr><th>Subject</th><th>Total Marks</th><th>Obtained Marks</th><th>Percentage</th></tr>");
+
+// document.write("<tr><td>" + subject1 + "</td><td>" + totalMarks + "</td><td>" + marks1 + "</td><td>" + (marks1 / totalMarks * 100) + "%</td></tr>");
+
+// document.write("<tr><td>" + subject2 + "</td><td>" + totalMarks + "</td><td>" + marks2 + "</td><td>" + (marks2 / totalMarks * 100) + "%</td></tr>");
+
+// document.write("<tr><td>" + subject3 + "</td><td>" + totalMarks + "</td><td>" + marks3 + "</td><td>" + (marks3 / totalMarks * 100) + "%</td></tr>");
+
+// document.write("<tr><th></th><th>" + total + "</th><th>" + obtained + "</th><th>" + percentage + "%</th></tr>");
+
+// document.write("</table>");
+
+//::::::::::::::::::::CHAPTER NO.9__11::::::::::::::::::://
+
+//Question No.1
+
+// var city=prompt("Enter Your City Name")
+
+// if(city=="karachi"){
+//     alert("Welcome to city of lights")
+// }
+// else{
+//     alert("Welcome to "+city)
+// }
+
+//Question No.2
+// var gender=prompt("Enter your gender")
+// if(gender=="male"){
+//     alert("Good Morning Sir!")
+// }
+// else{
+//     alert("Good Morning Madam")
+// }
+
+//Question No.3
+// var color=prompt("Enter color of road traffic signal")
+// if (color=="red") {
+//     alert("Must Stop")
+// }
+// else if (color=="yellow") {
+//     alert("Ready to move")
+// }
+// else {
+//     alert("Move now")
+// }
+
+//Question No.4
+// var fuel=+prompt("How many fuel is remaining?")
+// if(fuel<="0.25"){
+//     alert("Please refill the fuel in your car")
+// }
+// else{
+//     alert("Fuel is full")
+// }
+
+//Question No.5
+// //a
+// var a=4
+// if(++a===5){
+//     alert("given condition for variable a is true")
+// }
+
+// b.
+// var b = 82;
+
+// if (b++ === 83) {
+//     alert("given condition for variable b is true");
+// }
+
+//c
+// var c = 12;
+
+// if (c++ === 13) {
+//     alert("condition 1 is true");
+// }
+
+// if (c === 13) {
+//     alert("condition 2 is true");
+// }
+
+// if (++c < 14) {
+//     alert("condition 3 is true");
+// }
+
+// if (c === 14) {
+//     alert("condition 4 is true");
+// }
+// // d.
+// var materialCost = 20000;
+// var laborCost = 2000;
+// var totalCost = materialCost + laborCost;
+
+// if (totalCost === laborCost + materialCost) {
+//     alert("The cost equals");
+// }
+
+// // e.
+// if (true) {
+//     alert("True");
+// }
+
+// if (false) {
+//     alert("False");
+// }
+// //f
+// if("car"<"cat"){
+//     alert("car is smaller than cat")
+// }
+
+//Question No.6
+// var totalMarks = +prompt("Enter Total Marks");
+// var obtainedMarks = +prompt("Enter Obtained Marks");
+
+// var percentage = (obtainedMarks / totalMarks) * 100;
+
+// var grade;
+// var remarks;
+
+// if (percentage >= 80) {
+//     grade = "A-one";
+//     remarks = "Excellent";
+// }
+// else if (percentage >= 70) {
+//     grade = "A";
+//     remarks = "Good";
+// }
+// else if (percentage >= 60) {
+//     grade = "B";
+//     remarks = "You need to improve";
+// }
+// else {
+//     grade = "Fail";
+//     remarks = "Sorry";
+// }
+
+// document.write("<h2>Marks Sheet</h2>");
+// document.write("Total Marks: " + totalMarks + "<br>");
+// document.write("Marks Obtained: " + obtainedMarks + "<br>");
+// document.write("Percentage: " + percentage + "%<br>");
+// document.write("Grade: " + grade + "<br>");
+// document.write("Remarks: " + remarks);
+
+//Question No.7
+// var secretNumber = 7;
+// var guess = +prompt("Guess the secret number (1 to 10)");
+
+// if (guess == secretNumber) {
+//     alert("Bingo! Correct answer");
+// }
+// else if (guess + 1 == secretNumber) {
+//     alert("Close enough to the correct answer");
+// }
+// else {
+//     alert("Try Again!");
+// }
+
+//Question No.8
+// var num = +prompt("Enter a number");
+
+// if (num % 3 == 0) {
+//     alert("The number is divisible by 3");
+// }
+// else {
+//     alert("The number is not divisible by 3");
+// }
+
+//Question No.9
+// var num = +prompt("Enter a number");
+
+// if (num % 2 == 0) {
+//     alert("The number is Even");
+// }
+// else {
+//     alert("The number is Odd");
+// }
+
+//Question No.10
+// var temp = +prompt("Enter the temperature");
+
+// if (temp > 40) {
+//     alert("It is too hot outside.");
+// }
+// else if (temp > 30) {
+//     alert("The Weather today is Normal.");
+// }
+// else if (temp > 20) {
+//     alert("Today's Weather is cool.");
+// }
+// else if (temp > 10) {
+//     alert("OMG! Today's weather is so Cool.");
+// }
+// else {
+//     alert("It's very cold outside.");
+// }
+
+//Question No.11
+// var num1 = +prompt("Enter First Number");
+// var num2 = +prompt("Enter Second Number");
+// var operator = prompt("Enter Operator (+, -, *, /, %)");
+
+// if (operator == "+") {
+//     alert(num1 + num2);
+// }
+// else if (operator == "-") {
+//     alert(num1 - num2);
+// }
+// else if (operator == "*") {
+//     alert(num1 * num2);
+// }
+// else if (operator == "/") {
+//     alert(num1 / num2);
+// }
+// else if (operator == "%") {
+//     alert(num1 % num2);
+// }
+// else {
+//     alert("Invalid Operator");
+// }
+
+//---------------------END____________________///
+
+//<><><><><><>><<><>CHAPTER 12_13><><><><><><><><><><><><><>//
+
+//Question No.1
+// var ch = prompt("Enter a character");
+// var code = ch.charCodeAt(0);
+
+// if (code >= 48 && code <= 57) {
+//     alert("It is a Number");
+// }
+// else if (code >= 65 && code <= 90) {
+//     alert("It is an Uppercase Letter");
+// }
+// else if (code >= 97 && code <= 122) {
+//     alert("It is a Lowercase Letter");
+// }
+// else {
+//     alert("Invalid Input");
+// }
+
+//Question No.2
+// var num1 = +prompt("Enter First Number");
+// var num2 = +prompt("Enter Second Number");
+
+// if (num1 > num2) {
+//     alert(num1 + " is larger");
+// }
+// else if (num2 > num1) {
+//     alert(num2 + " is larger");
+// }
+// else {
+//     alert("Both numbers are equal");
+// }
+
+//Question No.3
+// var num = +prompt("Enter a Number");
+
+// if (num > 0) {
+//     alert("Positive Number");
+// }
+// else if (num < 0) {
+//     alert("Negative Number");
+// }
+// else {
+//     alert("The number is Zero");
+// }
+
+//Question NO.4
+// var ch = prompt("Enter a character");
+
+// if (ch == "a" || ch == "e" || ch == "i" || ch == "o" || ch == "u" ||
+//     ch == "A" || ch == "E" || ch == "I" || ch == "O" || ch == "U") 
+//     {
+//     alert("True");
+// }
+// else {
+//     alert("False");
+// }
+
+//Question No.5
+// var correctPassword = "admin123";
+// var userPassword = prompt("Enter your password");
+
+// if (userPassword == "") {
+//     alert("Please enter your password");
+// }
+// else if (userPassword == correctPassword) {
+//     alert("Correct! The password you entered matches the original password");
+// }
+// else {
+//     alert("Incorrect password");
+// }
+
+//Question No.6
+// var greeting;
+// var hour = 13;
+
+// if (hour < 18) {
+//     greeting = "Good day";
+// }
+// else {
+//     greeting = "Good evening";
+// }
+
+// alert(greeting);
+
+//Question No.7
+// var time = +prompt("Enter time in 24-hour format (e.g. 1900)");
+
+// if (time >= 0 && time < 1200) {
+//     alert("Good Morning!");
+// }
+// else if (time >= 1200 && time < 1700) {
+//     alert("Good Afternoon!");
+// }
+// else if (time >= 1700 && time < 2100) {
+//     alert("Good Evening!");
+// }
+// else if (time >= 2100 && time <= 2359) {
+//     alert("Good Night!");
+// }
+// else {
+//     alert("Invalid Time");
+// }
 
 
 
