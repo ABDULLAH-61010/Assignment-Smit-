@@ -1,39 +1,39 @@
 ~{MUHAMMAD ABDULLAH NASIR ROLL.NO 875020}~
-//.....Chapter#01.......//
+~{chapter no.1}~
 
-//Question No.1
+Q.1 WRITE A SCRIPT TO GREET YOUR WEBSITE VISITORS USING JS ALERT BOX?
 // alert("Welcome To Our website")
 
-//Question No.2
+Q.2 WRITE A SCRIPT TO DISPLAY FOLLOWING MESSAGE ON YOUR WEBPAGE?
 // alert("Error! Please enter a valid password")
 
-//Question No.3
+Q.3 WRITE A SCRIPT TO DISPLAY FOLLOWING MESSAGE ON YOUR WEB PAGE
 // alert("Welcome to JS land..\nHappy Coding!")
 
-//Question No.4
+Q.4 WRITE A SCRIPT T DISPLAY FOLLOWING MESSAGE IN SEQUENCE?
 // alert("Welcome to JS Land..")
 // alert("Happy Coding!\nPrevent this page from creating additional dialogs.")
 
-//Question No.5
+Q.5 GENERATE THE FOLLOWING MESSAGE THROUGH BROWSER'S DEVELOPER CONSOLE?
 //Done on web browser console my generating alert prompt in console then press enter
 // to show alert
 
-//------------------------------END--------------------------------------------//
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~END~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-//>>>>>>>Chapter No.2<<<<<<//
+~{chapter no.2}~
 
-//Question No.1
+Q.1 DECLARE A VARIABLE CALLED USER NAME?
 // var username;
 
-//Question No.2
-// var myName = "Hammad Khan";
+Q.2 DECLARE A VARIABLE CALLED MY NAME AND ASSIGN IT TO A STRING THAT REPRESENTS YOUR FULL NAME?
+// var myName = "M.ABDULLAH NASIR";
 
-//Question No.3
+Q.3 WRITE SCRIPT TO DISPLAY
 // var message;
 // message = "Hello World";
 // alert(message);
 
-//Question No.4
+Q.4 WRITE A SCRIPT TO DISPLAY STUDENT'S BIO DATA IN JS VARIABLES AND SHOW THE DATA IN ALERT BOXES?
 // var studentName = "Hammad Khan";
 // var age = 20;
 // var course = "Full Stack Foundation Javascript and python";
@@ -43,59 +43,59 @@
 // alert("Age: " + age);
 // alert("Course: " + course);
 
-//Question No.5
+Q.5 WRITE A SCRIPT TO DIPLAY FOLLOWING ALERT USING ONE JS VARIABLE? 
 // var pizza="PIZZA\nPIZZ\nPIZ\nPI\nP"
 // alert(pizza)
 
-//Question No.6
-// var email="My email Address is hammadkhani4546@gmail.com"
-// alert(email)
+Q.6 DECLARE A VARIABLE CALLED EMAIL AND ASSIGN IT A STRING THAT REPRESENTS YOUR EMAIL ADDRESS.
+SHOW THE BLOW MENTIONED MESSAGE IN AN ALERT BOX. 
+// var email= abdullah.footballerch@gmail.com
+// alert(" my email address is "+ email)
 
-//Question No.7
+Q.7 DECLARE A VARIABLE BOOK AND ASSIGN IT A VALUE"A smarter way to learn java script" 
+DISPLAY THE FOLLOWING MESSAGE IN AN ALERT BOX.
 // var book="A smarter way to learn javascript"
 // alert("I am trying to learn from the Book "+book)
 
-//Question No.8
+Q.8 WRITE A SCRIPT TO DISPLAY THIS IN BROWSER THROUGH JS.
 // var message="Yah! I can write HTML content through Javascript"
 // document.write(message)
 
-//OR we also do like this
-// document.write("Yah! I can write HTML content through Javascript")
-
-//Question No.9
+Q.9 STORE FOLLOWING STRINGS IN VARIABLES AND SHOW IN ALERTS AND BROWSERS THROUGH JS.
 // var design = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
 
 // alert(design);
 // document.write(design);
 
-//---------------------------------END-----------------------------------------//
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~END~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-//><><><><><><Chapter No.3><><><><><><><//
+~{chapter no.3}~
 
-//Question No.1
+Q.1 DECLARE A VARIABLE CALLED AGE AND ASSIGN TO IT YOUR AGE.SHOW YOUR AGE IN AN ALERT BOX?
 // var age="16"
 // alert("I am "+age +" years old")
 
-//Question No.2
+Q.2 Declare & initialize a variable to keep track of how many times a visitor has visited a web page.
+Show his/her number of visits on your web page, For example: "You have visited this site N times"
 // var visitCount = 14;
 
 // alert("You have visited this site " + visitCount + " times");
 // document.write("You have visited this site " + visitCount + " times");
 
-//Question No.3
+Q.3 DECLARE A VARIABLE CALLED BIRTH YEAR AND ASSIGN TO IT THE VALUE OF YOUR BIRTH YEAR AND SHOW IT IN AN ALERT BOX.
 // var birthyear= 2010
 // document.write("My birth year is "+birthyear+"</br>"+"Data type to my declared variable is number")
 
-//Question No.4
+Q.4
 // var visitorName = "Hammad khan";
 // var productTitle = "T-shirt";
 // var quantity = 5;
 
 // document.write(visitorName + " ordered " + quantity + " " + productTitle + "(s) on Ideas Clothing store");
 
-//-----------------------------------END---------------------------------------//
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~END~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
 
-//_________________CHAPTER NO 4_________________//
+~{chapter no.4}~
 
 //Question No.1
 // var firstName = "John", age = 20, city = "Karachi";
