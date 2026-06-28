@@ -86,7 +86,15 @@ Q.3 DECLARE A VARIABLE CALLED BIRTH YEAR AND ASSIGN TO IT THE VALUE OF YOUR BIRT
 // var birthyear= 2010
 // document.write("My birth year is "+birthyear+"</br>"+"Data type to my declared variable is number")
 
-Q.4
+Q.4 A visitor visits an online clothing store www.xyzClothing.com. Write a script to store in variables the following information:
+
+a. Visitor's name
+
+b. Product title
+
+c. Quantity i.e. how many products a visitor wants to order
+
+Show the following message in your browser: "John Doc ordered 5 T-shirt(s) on XYZ Clothing store".
 // var visitorName = "Hammad khan";
 // var productTitle = "T-shirt";
 // var quantity = 5;
@@ -97,10 +105,11 @@ Q.4
 
 ~{chapter no.4}~
 
-//Question No.1
+Q.1 Declare 3 variables in one statement.
 // var firstName = "John", age = 20, city = "Karachi";
 
-//Question No.2
+Q.2 Declare & legal & & illegal variable names.
+
 
 //  Legel VAriables
 // var myName;
@@ -117,7 +126,19 @@ Q.4
 // var var;        // reserved keyword
 // var @name;      // special character
 
-//Question No.3
+Q.3 Display this in your browser
+
+a) A heading stating "Rules for naming JS variables"
+
+b) Variable names can only contain
+
+and For example Smy_IstVariable
+
+e) Variables must begin with a For example Sname, name or name Or
+
+d) Variable names are case
+
+e) Variable names should not be JS
 // document.write("<h1>Rules for naming JS variables</h1>");
 
 // document.write("Variable names can only contain numbers, $, _ and letters. For example: $my_1stVariable <br>");
@@ -132,15 +153,15 @@ Q.4
 //______________________END_________________________________//
 
 
-//............CHAPTER NO.5...........//
+~{chapter no.5}~
 
-//Question No.1
+Q.1 WRITE A PROGRAM THAT TAKES TO NUMBERS AND ADD THEM IN A NEW VARIABLE.SHOW THE RESULT IN YOUR BROWSERS
 // var num1=5
 // var num2=15
 // var result=num1+num2
 // document.write("The sum of 5 and 15 is "+result )
 
-//Question No.2
+Q.2 Repeat taskı for subtraction, multiplication, division & modulus.
 
 //(SUBSTRACTION)
 // var num1=5
@@ -160,7 +181,32 @@ Q.4
 // var result=num1/num2
 // document.write("The division of 15 and 5 is "+result )
 
-//Question No.3
+Q.3 Do the following using JS Mathematic Expressions
+
+a. Declare a variable.
+
+b. Show the value of variable in your browser like "Value after variable declaration is: ??".
+
+c. Initialize the variable with some number.
+
+d. Show the value of variable in your browser like "Initial value: 5".
+
+e. Increment the variable.
+
+f. Show the value of variable in your browser like "Value after increment is: 6".
+
+g. Add 7 to the variable.
+
+h. Show the value of variable in your browser like "Value after addition is: 13".
+
+i. Decrement the variable.
+
+j. Show the value of variable in your browser like "Value after decrement is: 12".
+
+k. Show the remainder after dividing the variable's value by 3.
+
+l. Output "The remainder is : 0"
+
 // var num;
 
 // document.write("Value after variable declaration is: " + num + "<br>");
@@ -320,7 +366,7 @@ Q.4
 
 // document.write("</table>");
 
-//::::::::::::::::::::CHAPTER NO.9__11::::::::::::::::::://
+//::::::::::::::::::::~{CHAPTER NO.9__11}~::::::::::::::::::://
 
 //Question No.1
 
